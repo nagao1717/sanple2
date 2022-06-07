@@ -13,8 +13,3 @@ sanple-1
 
 sanple-1sanple-1
 sanple-1
-
-test
-test 
-test 
-test
