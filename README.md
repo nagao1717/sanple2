@@ -1,15 +1,19 @@
-# sanple2
-github操作練習用です。
+#git command list
 
 ---
-##メンバー
+#pull
+git pull リモート名　ブランチ名
+git pull origin main
 
-*nagao
-##ファイル構成
-sanple-1
-sanple-1
-sanple-1
-sanple-1
+#push
+git push リモート名　ブランチ名
+git push origin main
 
-sanple-1sanple-1
-sanple-1
+#commit
+git commit -m "コメントを追記"
+git commit -m ""
+
+#反映確認
+git status
+
+---
