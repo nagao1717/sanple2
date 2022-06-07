@@ -6,3 +6,10 @@ github操作練習用です。
 
 *nagao
 ##ファイル構成
+sanple-1
+sanple-1
+sanple-1
+sanple-1
+
+sanple-1sanple-1
+sanple-1
